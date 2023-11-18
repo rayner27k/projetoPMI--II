@@ -18,16 +18,16 @@ Projeto Multidisciplinar Integrador - ADS- CESUSC - 2023
 💡 PMI I
 -------------------
 
-🔗 **url github:** https://github.com/Guguetson/projetoPMI-
+🔗 **url github:** https://github.com/rayner27k/projetoPMI--II
 
-🛬 **url landpage:** https://guguetson.github.io/projetoPMI-II/
+🛬 **url landpage:** https://rayner27k.github.io/projetoPMI--II/
 
 📲 PMI II
 -------------------
 
 ⌨️ **url Protótipo (Figma):** https://www.figma.com/file/NnsU7i3ua3TRxtLkYQJfKG/Prot%C3%B3tipo-naveg%C3%A1vel-APP-PMI?type=design&node-id=0%3A1&mode=design&t=Wi4GQsYcVJkuVpxM-1
 
-📝 **url Modelagem Sistema:** https://github.com/Guguetson/projetoPMI-II/tree/main/diagramas
+📝 **url Modelagem Sistema:** https://github.com/rayner27k/projetoPMI--II/tree/main/diagramas
 
 💻 PMI III
 -------------------
